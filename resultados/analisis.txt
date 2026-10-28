@@ -1,0 +1,16 @@
+MODELO DEL METRO DE LA CIUDAD DE MÉXICO
+Líneas: 12
+Estaciones únicas (vértices): 163
+Conexiones (aristas): 183
+Estaciones de correspondencia: 28
+Componentes conexas: 1
+Grado promedio: 2.25
+Diámetro: 35 tramos
+Mayor grado: Chabacano (6), Tacubaya (5), Atlalilco (4), Balderas (4), Bellas Artes (4)
+
+Ruta: Observatorio -> Tacubaya -> San Pedro de los Pinos -> San Antonio -> Mixcoac -> Insurgentes Sur -> Hospital 20 de Noviembre -> Zapata -> Coyoacán -> Viveros/Derechos Humanos -> Miguel Ángel de Quevedo -> Copilco -> Universidad
+Tramos recorridos: 12
+Estaciones visitadas: 13
+Transbordos: 3
+Cambios de línea en: Tacubaya, Mixcoac, Zapata
+Líneas por tramo: 1 -> 7 -> 7 -> 7 -> 12 -> 12 -> 12 -> 3 -> 3 -> 3 -> 3 -> 3

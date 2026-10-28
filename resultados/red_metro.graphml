@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="peso" attr.type="long" />
+  <key id="d2" for="edge" attr.name="linea" attr.type="string" />
+  <key id="d1" for="node" attr.name="lineas" attr.type="string" />
+  <key id="d0" for="graph" attr.name="nombre" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Observatorio">
+      <data key="d1">1</data>
+    </node>
+    <node id="Tacubaya">
+      <data key="d1">1,7,9</data>
+    </node>
+    <node id="Juanacatlán">
+      <data key="d1">1</data>
+    </node>
+    <node id="Chapultepec">
+      <data key="d1">1</data>
+    </node>
+    <node id="Sevilla">
+      <data key="d1">1</data>
+    </node>
+    <node id="Insurgentes">
+      <data key="d1">1</data>
+    </node>
+    <node id="Cuauhtémoc">
+      <data key="d1">1</data>
+    </node>
+    <node id="Balderas">
+      <data key="d1">1,3</data>
+    </node>
+    <node id="Salto del Agua">
+      <data key="d1">1,8</data>
+    </node>
+    <node id="Isabel la Católica">
+      <data key="d1">1</data>
+    </node>
+    <node id="Pino Suárez">
+      <data key="d1">1,2</data>
+    </node>
+    <node id="Merced">
+      <data key="d1">1</data>
+    </node>
+    <node id="Candelaria">
+      <data key="d1">1,4</data>
+    </node>
+    <node id="San Lázaro">
+      <data key="d1">1,B</data>
+    </node>
+    <node id="Moctezuma">
+      <data key="d1">1</data>
+    </node>
+    <node id="Balbuena">
+      <data key="d1">1</data>
+    </node>
+    <node id="Boulevard Puerto Aéreo">
+      <data key="d1">1</data>
+    </node>
+    <node id="Gómez Farías">
+      <data key="d1">1</data>
+    </node>
+    <node id="Zaragoza">
+      <data key="d1">1</data>
+    </node>
+    <node id="Pantitlán">
+      <data key="d1">1,5,9,A</data>
+    </node>
+    <node id="Cuatro Caminos">
+      <data key="d1">2</data>
+    </node>
+    <node id="Panteones">
+      <data key="d1">2</data>
+    </node>
+    <node id="Tacuba">
+      <data key="d1">2,7</data>
+    </node>
+    <node id="Cuitláhuac">
+      <data key="d1">2</data>
+    </node>
+    <node id="Popotla">
+      <data key="d1">2</data>
+    </node>
+    <node id="Colegio Militar">
+      <data key="d1">2</data>
+    </node>
+    <node id="Normal">
+      <data key="d1">2</data>
+    </node>
+    <node id="San Cosme">
+      <data key="d1">2</data>
+    </node>
+    <node id="Revolución">
+      <data key="d1">2</data>
+    </node>
+    <node id="Hidalgo">
+      <data key="d1">2,3</data>
+    </node>
+    <node id="Bellas Artes">
+      <data key="d1">2,8</data>
+    </node>
+    <node id="Allende">
+      <data key="d1">2</data>
+    </node>
+    <node id="Zócalo/Tenochtitlan">
+      <data key="d1">2</data>
+    </node>
+    <node id="San Antonio Abad">
+      <data key="d1">2</data>
+    </node>
+    <node id="Chabacano">
+      <data key="d1">2,8,9</data>
+    </node>
+    <node id="Viaducto">
+      <data key="d1">2</data>
+    </node>
+    <node id="Xola">
+      <data key="d1">2</data>
+    </node>
+    <node id="Villa de Cortés">
+      <data key="d1">2</data>
+    </node>
+    <node id="Nativitas">
+      <data key="d1">2</data>
+    </node>
+    <node id="Portales">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ermita">
+      <data key="d1">2,12</data>
+    </node>
+    <node id="General Anaya">
+      <data key="d1">2</data>
+    </node>
+    <node id="Tasqueña">
+      <data key="d1">2</data>
+    </node>
+    <node id="Indios Verdes">
+      <data key="d1">3</data>
+    </node>
+    <node id="Deportivo 18 de Marzo">
+      <data key="d1">3,6</data>
+    </node>
+    <node id="Potrero">
+      <data key="d1">3</data>
+    </node>
+    <node id="La Raza">
+      <data key="d1">3,5</data>
+    </node>
+    <node id="Tlatelolco">
+      <data key="d1">3</data>
+    </node>
+    <node id="Guerrero">
+      <data key="d1">3,B</data>
+    </node>
+    <node id="Juárez">
+      <data key="d1">3</data>
+    </node>
+    <node id="Niños Héroes/Poder Judicial CDMX">
+      <data key="d1">3</data>
+    </node>
+    <node id="Hospital General">
+      <data key="d1">3</data>
+    </node>
+    <node id="Centro Médico">
+      <data key="d1">3,9</data>
+    </node>
+    <node id="Etiopía/Plaza de la Transparencia">
+      <data key="d1">3</data>
+    </node>
+    <node id="Eugenia">
+      <data key="d1">3</data>
+    </node>
+    <node id="División del Norte">
+      <data key="d1">3</data>
+    </node>
+    <node id="Zapata">
+      <data key="d1">3,12</data>
+    </node>
+    <node id="Coyoacán">
+      <data key="d1">3</data>
+    </node>
+    <node id="Viveros/Derechos Humanos">
+      <data key="d1">3</data>
+    </node>
+    <node id="Miguel Ángel de Quevedo">
+      <data key="d1">3</data>
+    </node>
+    <node id="Copilco">
+      <data key="d1">3</data>
+    </node>
+    <node id="Universidad">
+      <data key="d1">3</data>
+    </node>
+    <node id="Martín Carrera">
+      <data key="d1">4,6</data>
+    </node>
+    <node id="Talismán">
+      <data key="d1">4</data>
+    </node>
+    <node id="Bondojito">
+      <data key="d1">4</data>
+    </node>
+    <node id="Consulado">
+      <data key="d1">4,5</data>
+    </node>
+    <node id="Canal del Norte">
+      <data key="d1">4</data>
+    </node>
+    <node id="Morelos">
+      <data key="d1">4,B</data>
+    </node>
+    <node id="Fray Servando">
+      <data key="d1">4</data>
+    </node>
+    <node id="Jamaica">
+      <data key="d1">4,9</data>
+    </node>
+    <node id="Santa Anita">
+      <data key="d1">4,8</data>
+    </node>
+    <node id="Politécnico">
+      <data key="d1">5</data>
+    </node>
+    <node id="Instituto del Petróleo">
+      <data key="d1">5,6</data>
+    </node>
+    <node id="Autobuses del Norte">
+      <data key="d1">5</data>
+    </node>
+    <node id="Misterios">
+      <data key="d1">5</data>
+    </node>
+    <node id="Valle Gómez">
+      <data key="d1">5</data>
+    </node>
+    <node id="Eduardo Molina">
+      <data key="d1">5</data>
+    </node>
+    <node id="Aragón">
+      <data key="d1">5</data>
+    </node>
+    <node id="Oceanía">
+      <data key="d1">5,B</data>
+    </node>
+    <node id="Terminal Aérea">
+      <data key="d1">5</data>
+    </node>
+    <node id="Hangares">
+      <data key="d1">5</data>
+    </node>
+    <node id="El Rosario">
+      <data key="d1">6,7</data>
+    </node>
+    <node id="Tezozómoc">
+      <data key="d1">6</data>
+    </node>
+    <node id="UAM-Azcapotzalco">
+      <data key="d1">6</data>
+    </node>
+    <node id="Ferrería/Arena Ciudad de México">
+      <data key="d1">6</data>
+    </node>
+    <node id="Norte 45">
+      <data key="d1">6</data>
+    </node>
+    <node id="Vallejo">
+      <data key="d1">6</data>
+    </node>
+    <node id="Lindavista">
+      <data key="d1">6</data>
+    </node>
+    <node id="La Villa-Basílica">
+      <data key="d1">6</data>
+    </node>
+    <node id="Aquiles Serdán">
+      <data key="d1">7</data>
+    </node>
+    <node id="Camarones">
+      <data key="d1">7</data>
+    </node>
+    <node id="Refinería">
+      <data key="d1">7</data>
+    </node>
+    <node id="San Joaquín">
+      <data key="d1">7</data>
+    </node>
+    <node id="Polanco">
+      <data key="d1">7</data>
+    </node>
+    <node id="Auditorio">
+      <data key="d1">7</data>
+    </node>
+    <node id="Constituyentes">
+      <data key="d1">7</data>
+    </node>
+    <node id="San Pedro de los Pinos">
+      <data key="d1">7</data>
+    </node>
+    <node id="San Antonio">
+      <data key="d1">7</data>
+    </node>
+    <node id="Mixcoac">
+      <data key="d1">7,12</data>
+    </node>
+    <node id="Barranca del Muerto">
+      <data key="d1">7</data>
+    </node>
+    <node id="Garibaldi/Lagunilla">
+      <data key="d1">8,B</data>
+    </node>
+    <node id="San Juan de Letrán">
+      <data key="d1">8</data>
+    </node>
+    <node id="Doctores">
+      <data key="d1">8</data>
+    </node>
+    <node id="Obrera">
+      <data key="d1">8</data>
+    </node>
+    <node id="La Viga">
+      <data key="d1">8</data>
+    </node>
+    <node id="Coyuya">
+      <data key="d1">8</data>
+    </node>
+    <node id="Iztacalco">
+      <data key="d1">8</data>
+    </node>
+    <node id="Apatlaco">
+      <data key="d1">8</data>
+    </node>
+    <node id="Aculco">
+      <data key="d1">8</data>
+    </node>
+    <node id="Escuadrón 201">
+      <data key="d1">8</data>
+    </node>
+    <node id="Atlalilco">
+      <data key="d1">8,12</data>
+    </node>
+    <node id="Iztapalapa">
+      <data key="d1">8</data>
+    </node>
+    <node id="Cerro de la Estrella">
+      <data key="d1">8</data>
+    </node>
+    <node id="UAM-I">
+      <data key="d1">8</data>
+    </node>
+    <node id="Constitución de 1917">
+      <data key="d1">8</data>
+    </node>
+    <node id="Patriotismo">
+      <data key="d1">9</data>
+    </node>
+    <node id="Chilpancingo">
+      <data key="d1">9</data>
+    </node>
+    <node id="Lázaro Cárdenas">
+      <data key="d1">9</data>
+    </node>
+    <node id="Mixiuhca">
+      <data key="d1">9</data>
+    </node>
+    <node id="Velódromo">
+      <data key="d1">9</data>
+    </node>
+    <node id="Ciudad Deportiva">
+      <data key="d1">9</data>
+    </node>
+    <node id="Puebla">
+      <data key="d1">9</data>
+    </node>
+    <node id="Agrícola Oriental">
+      <data key="d1">A</data>
+    </node>
+    <node id="Canal de San Juan">
+      <data key="d1">A</data>
+    </node>
+    <node id="Tepalcates">
+      <data key="d1">A</data>
+    </node>
+    <node id="Guelatao">
+      <data key="d1">A</data>
+    </node>
+    <node id="Peñón Viejo">
+      <data key="d1">A</data>
+    </node>
+    <node id="Acatitla">
+      <data key="d1">A</data>
+    </node>
+    <node id="Santa Marta">
+      <data key="d1">A</data>
+    </node>
+    <node id="Los Reyes">
+      <data key="d1">A</data>
+    </node>
+    <node id="La Paz">
+      <data key="d1">A</data>
+    </node>
+    <node id="Buenavista">
+      <data key="d1">B</data>
+    </node>
+    <node id="Lagunilla">
+      <data key="d1">B</data>
+    </node>
+    <node id="Tepito">
+      <data key="d1">B</data>
+    </node>
+    <node id="Ricardo Flores Magón">
+      <data key="d1">B</data>
+    </node>
+    <node id="Romero Rubio">
+      <data key="d1">B</data>
+    </node>
+    <node id="Deportivo Oceanía">
+      <data key="d1">B</data>
+    </node>
+    <node id="Bosque de Aragón">
+      <data key="d1">B</data>
+    </node>
+    <node id="Villa de Aragón">
+      <data key="d1">B</data>
+    </node>
+    <node id="Nezahualcóyotl">
+      <data key="d1">B</data>
+    </node>
+    <node id="Impulsora">
+      <data key="d1">B</data>
+    </node>
+    <node id="Río de los Remedios">
+      <data key="d1">B</data>
+    </node>
+    <node id="Múzquiz">
+      <data key="d1">B</data>
+    </node>
+    <node id="Ecatepec">
+      <data key="d1">B</data>
+    </node>
+    <node id="Olímpica">
+      <data key="d1">B</data>
+    </node>
+    <node id="Plaza Aragón">
+      <data key="d1">B</data>
+    </node>
+    <node id="Ciudad Azteca">
+      <data key="d1">B</data>
+    </node>
+    <node id="Insurgentes Sur">
+      <data key="d1">12</data>
+    </node>
+    <node id="Hospital 20 de Noviembre">
+      <data key="d1">12</data>
+    </node>
+    <node id="Parque de los Venados">
+      <data key="d1">12</data>
+    </node>
+    <node id="Eje Central">
+      <data key="d1">12</data>
+    </node>
+    <node id="Mexicaltzingo">
+      <data key="d1">12</data>
+    </node>
+    <node id="Culhuacán">
+      <data key="d1">12</data>
+    </node>
+    <node id="San Andrés Tomatlán">
+      <data key="d1">12</data>
+    </node>
+    <node id="Lomas Estrella">
+      <data key="d1">12</data>
+    </node>
+    <node id="Calle 11">
+      <data key="d1">12</data>
+    </node>
+    <node id="Periférico Oriente">
+      <data key="d1">12</data>
+    </node>
+    <node id="Tezonco">
+      <data key="d1">12</data>
+    </node>
+    <node id="Olivos">
+      <data key="d1">12</data>
+    </node>
+    <node id="Nopalera">
+      <data key="d1">12</data>
+    </node>
+    <node id="Zapotitlán">
+      <data key="d1">12</data>
+    </node>
+    <node id="Tlaltenco">
+      <data key="d1">12</data>
+    </node>
+    <node id="Tláhuac">
+      <data key="d1">12</data>
+    </node>
+    <edge source="Observatorio" target="Tacubaya">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacubaya" target="Juanacatlán">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacubaya" target="Constituyentes">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacubaya" target="San Pedro de los Pinos">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacubaya" target="Patriotismo">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Juanacatlán" target="Chapultepec">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chapultepec" target="Sevilla">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sevilla" target="Insurgentes">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Insurgentes" target="Cuauhtémoc">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cuauhtémoc" target="Balderas">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Balderas" target="Salto del Agua">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Balderas" target="Juárez">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Balderas" target="Niños Héroes/Poder Judicial CDMX">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salto del Agua" target="Isabel la Católica">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salto del Agua" target="San Juan de Letrán">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salto del Agua" target="Doctores">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Isabel la Católica" target="Pino Suárez">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pino Suárez" target="Merced">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pino Suárez" target="Zócalo/Tenochtitlan">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pino Suárez" target="San Antonio Abad">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Merced" target="Candelaria">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Candelaria" target="San Lázaro">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Candelaria" target="Morelos">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Candelaria" target="Fray Servando">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Lázaro" target="Moctezuma">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Lázaro" target="Morelos">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Lázaro" target="Ricardo Flores Magón">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Moctezuma" target="Balbuena">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Balbuena" target="Boulevard Puerto Aéreo">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Boulevard Puerto Aéreo" target="Gómez Farías">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gómez Farías" target="Zaragoza">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zaragoza" target="Pantitlán">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pantitlán" target="Hangares">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pantitlán" target="Puebla">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pantitlán" target="Agrícola Oriental">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cuatro Caminos" target="Panteones">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Panteones" target="Tacuba">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacuba" target="Cuitláhuac">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacuba" target="Refinería">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tacuba" target="San Joaquín">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cuitláhuac" target="Popotla">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Popotla" target="Colegio Militar">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Colegio Militar" target="Normal">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Normal" target="San Cosme">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Cosme" target="Revolución">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Revolución" target="Hidalgo">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hidalgo" target="Bellas Artes">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hidalgo" target="Guerrero">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hidalgo" target="Juárez">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bellas Artes" target="Allende">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bellas Artes" target="Garibaldi/Lagunilla">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bellas Artes" target="San Juan de Letrán">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Allende" target="Zócalo/Tenochtitlan">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Antonio Abad" target="Chabacano">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chabacano" target="Viaducto">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chabacano" target="Obrera">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chabacano" target="La Viga">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chabacano" target="Lázaro Cárdenas">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chabacano" target="Jamaica">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Viaducto" target="Xola">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Xola" target="Villa de Cortés">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Villa de Cortés" target="Nativitas">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nativitas" target="Portales">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Portales" target="Ermita">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ermita" target="General Anaya">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ermita" target="Eje Central">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ermita" target="Mexicaltzingo">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="General Anaya" target="Tasqueña">
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Indios Verdes" target="Deportivo 18 de Marzo">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Potrero">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="Lindavista">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Deportivo 18 de Marzo" target="La Villa-Basílica">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Potrero" target="La Raza">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="La Raza" target="Tlatelolco">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="La Raza" target="Autobuses del Norte">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="La Raza" target="Misterios">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tlatelolco" target="Guerrero">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Guerrero" target="Buenavista">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Guerrero" target="Garibaldi/Lagunilla">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Niños Héroes/Poder Judicial CDMX" target="Hospital General">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hospital General" target="Centro Médico">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centro Médico" target="Etiopía/Plaza de la Transparencia">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centro Médico" target="Chilpancingo">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centro Médico" target="Lázaro Cárdenas">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Etiopía/Plaza de la Transparencia" target="Eugenia">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Eugenia" target="División del Norte">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="División del Norte" target="Zapata">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zapata" target="Coyoacán">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zapata" target="Hospital 20 de Noviembre">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zapata" target="Parque de los Venados">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coyoacán" target="Viveros/Derechos Humanos">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Viveros/Derechos Humanos" target="Miguel Ángel de Quevedo">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Miguel Ángel de Quevedo" target="Copilco">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Copilco" target="Universidad">
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Martín Carrera" target="Talismán">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Martín Carrera" target="La Villa-Basílica">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Talismán" target="Bondojito">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bondojito" target="Consulado">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consulado" target="Canal del Norte">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consulado" target="Valle Gómez">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consulado" target="Eduardo Molina">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Canal del Norte" target="Morelos">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Morelos" target="Tepito">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fray Servando" target="Jamaica">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jamaica" target="Santa Anita">
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jamaica" target="Mixiuhca">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Santa Anita" target="La Viga">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Santa Anita" target="Coyuya">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Politécnico" target="Instituto del Petróleo">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Instituto del Petróleo" target="Autobuses del Norte">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Instituto del Petróleo" target="Vallejo">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Instituto del Petróleo" target="Lindavista">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Misterios" target="Valle Gómez">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Eduardo Molina" target="Aragón">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aragón" target="Oceanía">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oceanía" target="Terminal Aérea">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oceanía" target="Romero Rubio">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oceanía" target="Deportivo Oceanía">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Terminal Aérea" target="Hangares">
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="El Rosario" target="Tezozómoc">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="El Rosario" target="Aquiles Serdán">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tezozómoc" target="UAM-Azcapotzalco">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UAM-Azcapotzalco" target="Ferrería/Arena Ciudad de México">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ferrería/Arena Ciudad de México" target="Norte 45">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte 45" target="Vallejo">
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquiles Serdán" target="Camarones">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Camarones" target="Refinería">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Joaquín" target="Polanco">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Polanco" target="Auditorio">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Auditorio" target="Constituyentes">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Pedro de los Pinos" target="San Antonio">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Antonio" target="Mixcoac">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Mixcoac" target="Barranca del Muerto">
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Mixcoac" target="Insurgentes Sur">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Garibaldi/Lagunilla" target="Lagunilla">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Doctores" target="Obrera">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coyuya" target="Iztacalco">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Iztacalco" target="Apatlaco">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Apatlaco" target="Aculco">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aculco" target="Escuadrón 201">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Escuadrón 201" target="Atlalilco">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Atlalilco" target="Iztapalapa">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Atlalilco" target="Mexicaltzingo">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Atlalilco" target="Culhuacán">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Iztapalapa" target="Cerro de la Estrella">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cerro de la Estrella" target="UAM-I">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UAM-I" target="Constitución de 1917">
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Patriotismo" target="Chilpancingo">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Mixiuhca" target="Velódromo">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Velódromo" target="Ciudad Deportiva">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ciudad Deportiva" target="Puebla">
+      <data key="d2">9</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agrícola Oriental" target="Canal de San Juan">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Canal de San Juan" target="Tepalcates">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tepalcates" target="Guelatao">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Guelatao" target="Peñón Viejo">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Peñón Viejo" target="Acatitla">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Acatitla" target="Santa Marta">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Santa Marta" target="Los Reyes">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Los Reyes" target="La Paz">
+      <data key="d2">A</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lagunilla" target="Tepito">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ricardo Flores Magón" target="Romero Rubio">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Deportivo Oceanía" target="Bosque de Aragón">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bosque de Aragón" target="Villa de Aragón">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Villa de Aragón" target="Nezahualcóyotl">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nezahualcóyotl" target="Impulsora">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Impulsora" target="Río de los Remedios">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Río de los Remedios" target="Múzquiz">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Múzquiz" target="Ecatepec">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecatepec" target="Olímpica">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Olímpica" target="Plaza Aragón">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Plaza Aragón" target="Ciudad Azteca">
+      <data key="d2">B</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Insurgentes Sur" target="Hospital 20 de Noviembre">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Parque de los Venados" target="Eje Central">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Culhuacán" target="San Andrés Tomatlán">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="San Andrés Tomatlán" target="Lomas Estrella">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lomas Estrella" target="Calle 11">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Calle 11" target="Periférico Oriente">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Periférico Oriente" target="Tezonco">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tezonco" target="Olivos">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Olivos" target="Nopalera">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nopalera" target="Zapotitlán">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zapotitlán" target="Tlaltenco">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tlaltenco" target="Tláhuac">
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+    </edge>
+    <data key="d0">Metro de la Ciudad de México</data>
+  </graph>
+</graphml>
