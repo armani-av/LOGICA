@@ -2,6 +2,21 @@
 
 Proyecto de Lógica Matemática y Matemáticas Discretas. Modela las 12 líneas del Metro de la Ciudad de México mediante un grafo en Python con **NetworkX** y lo visualiza con **Matplotlib**.
 
+## Notebook de clase
+
+[Abrir el notebook: matriz de adyacencia y Dijkstra](metro_dijkstra.ipynb).
+
+Incluye la construcción del grafo, la matriz de adyacencia, su conversión a lista de adyacencia, Dijkstra implementado con `heapq`, la reconstrucción del camino y la comprobación de resultados con NetworkX. Las celdas incluyen resultados y figuras de una ejecución completa.
+
+Para ejecutarlo, después de instalar las dependencias del proyecto:
+
+```bash
+python -m pip install jupyterlab
+python -m jupyterlab
+```
+
+Abrir `metro_dijkstra.ipynb` desde la carpeta del repositorio y ejecutar las celdas en orden.
+
 ## Modelo matemático
 
 Se utiliza un grafo simple, no dirigido y con costo unitario **G = (V, E)**:
@@ -74,6 +89,7 @@ Genera en `resultados/`:
 | Archivo | Función |
 | --- | --- |
 | `datos.py` | Listas ordenadas de estaciones de las 12 líneas y sus colores. |
+| `metro_dijkstra.ipynb` | Matriz de adyacencia y Dijkstra explicados y ejecutados. |
 | `metro.py` | Construcción, análisis, búsqueda de rutas, dibujo y exportación. |
 | `test_metro.py` | Verificación de estructura, correspondencias y rutas. |
 | `requirements.txt` | Dependencias utilizadas. |
